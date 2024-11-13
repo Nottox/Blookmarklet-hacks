@@ -1,8 +1,5 @@
-# Blookmarklet-hacks
+# Blookmarklet-V2/ForFunNow
 
-Lol filled with bookmarklets hacks and fun stuff and etc.😈 Keep this a secret
-please tell me when something is outdated or not working, I'm too lazy to check
+Changed this cause im not trying to get in trouble.
 
 I might delete this but I'll reupload it sooner or later
-
-Also this has some console hacks too, some downloads, and websites
